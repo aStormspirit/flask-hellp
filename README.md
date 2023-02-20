@@ -1,6 +1,8 @@
 # flask-hellp
 Простое приложение на Flask, упакованное в Docker
 
+![Image alt](https://github.com/aStormspirit/flask-hellp/raw/main/image/picture.png)
+
 Сборка приложение командой:
 docker build -t myapp .
 
